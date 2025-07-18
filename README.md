@@ -109,4 +109,4 @@ Lexical Analysis Output:
 
 OUTPUT
 ---------------------------------------------------------
-<img width="1918" height="1077" alt="Image" src="https://github.com/user-attachments/assets/e84c4517-cfa3-4e64-a4a4-470e3fabc9b5" />
+<img width="1918" height="1077" alt="Image" src="https://github.com/user-attachments/assets/66a5a836-c861-4e3d-87e2-f5b5a3acc5ab" />
